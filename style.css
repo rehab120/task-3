@@ -1,0 +1,52 @@
+.de{
+    text-align:center;
+    color:rgb(3, 3, 14);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size:50px;
+    text-transform: uppercase;
+}
+body{
+    background-image:url(download.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    margin-top:10%;
+
+}
+.one{
+    text-align:center;
+    font-size:25px;
+    color: rgb(4, 3, 12);
+    font-family:unset;
+}
+.po{
+    height: 40px;
+    width: 170px;
+    border: solid rgb(231, 231, 241) 1px;
+    background-color: rgb(236, 240, 243);
+    padding:auto;
+    padding-top: 5px;
+    text-align:center;
+    font-weight:bold;
+    text-transform: uppercase;
+    margin-left:450px;
+    margin-right:10px;
+    margin-bottom: auto;
+    float:left;
+    border-radius:20px;
+}
+.poo{
+    height: 40px;
+    width: 170px;
+    border: solid #e8e8ee 1px;
+    background-color:rgba(231, 231, 241, 0.1);
+    padding:auto;
+    padding-top: 5px;
+    text-align:center;
+    font-weight:bold;
+    text-transform: uppercase;
+    margin-right:175px;
+    margin-bottom: auto;
+    float: left;
+}
